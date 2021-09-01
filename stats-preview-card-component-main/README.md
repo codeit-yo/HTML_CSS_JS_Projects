@@ -26,6 +26,7 @@ Users should be able to:
 ### Screenshot
 
 ![Stats preview card component](https://user-images.githubusercontent.com/47123640/131755745-32dd9e99-935d-49ac-ba52-e795f776707b.png)
+![Stats preview card component_mobile](https://user-images.githubusercontent.com/47123640/131759607-26b20b0d-a253-44f7-a402-04ceb606f00f.png)
 
 ### Links
 
