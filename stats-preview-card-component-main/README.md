@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/images/Stats-preview-card.png)
+![Stats preview card component](https://user-images.githubusercontent.com/47123640/131755745-32dd9e99-935d-49ac-ba52-e795f776707b.png)
 
 ### Links
 
