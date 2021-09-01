@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://loving-ramanujan-52615a.netlify.app/)
+- Solution URL: [here](https://your-solution-url.com)
+- Live Site URL: [here](https://loving-ramanujan-52615a.netlify.app/)
 
 ## My process
 
