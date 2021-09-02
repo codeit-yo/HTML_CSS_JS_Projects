@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/css-flexbox-screen-responsive-stats-card-faQHkSTB7)
 - Live Site URL: [here](https://loving-ramanujan-52615a.netlify.app/)
 
 ## My process
